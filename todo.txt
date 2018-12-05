@@ -1,0 +1,7 @@
+conversion functions needed:
+
+-rounds to cents 
+-hours to minutes
+-kg to pounds
+-grams to mg
+
