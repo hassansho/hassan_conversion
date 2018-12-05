@@ -4,4 +4,4 @@ conversion functions needed:
 -hours to minutes
 -kg to pounds
 -grams to mg
-
+-celcius to farhenheit
